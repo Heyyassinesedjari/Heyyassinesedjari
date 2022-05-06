@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning the theory behind Machine Learning.
 - 💞️ I’m looking to collaborate on simple ML projects
 - 📫 You can reach me on:
-  Facebook: https://web.facebook.com/yassineBO3sedjari
-  LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
-  Kaggle: https://www.kaggle.com/yassinesedjari
+<br> Facebook: https://web.facebook.com/yassineBO3sedjari
+<br>  LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
+<br>  Kaggle: https://www.kaggle.com/yassinesedjari
 
 <!---
 Heyyassinesedjari/Heyyassinesedjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
