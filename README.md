@@ -5,6 +5,7 @@
 - 📫 You can reach me on:
   Facebook: https://web.facebook.com/yassineBO3sedjari
   LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
+  Kaggle: https://www.kaggle.com/yassinesedjari
 
 <!---
 Heyyassinesedjari/Heyyassinesedjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
