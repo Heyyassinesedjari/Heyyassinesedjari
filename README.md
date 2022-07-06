@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the theory behind Machine Learning.
 - 💞️ I’m looking to collaborate on simple ML projects
 - 📫 You can reach me on:
-<br> Facebook: https://web.facebook.com/yassineBO3sedjari
 <br>  LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
 <br>  Kaggle: https://www.kaggle.com/yassinesedjari
 
