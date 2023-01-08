@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heyyassinesedjari
 - 👀 I’m interested in AI specially Machine Learning
 - 🌱 I’m currently learning the theory behind Machine Learning.
-- 💞️ I’m looking to collaborate on simple ML projects
+- 💞️ I’m looking to collaborate on  ML projects
 - 📫 You can reach me on:
 <br>  LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
 <br>  Kaggle: https://www.kaggle.com/yassinesedjari
