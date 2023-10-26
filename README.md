@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Heyyassinesedjari
-- 👀 I’m interested in AI specially Machine Learning
-- 🌱 I’m currently learning the theory behind Machine Learning.
-- 💞️ I’m looking to collaborate on  ML projects
+- 👋 Hi, I’m Yassine Sedjari
+- 👀 I’m interested in Machine Learning Engineering
+- 🌱 I’m currently a Senior Undergraduate Student at Ecole National Supérieur d'Informatique et d'Analyse des Système, Mohamed V University.
+- 📚 I'm majoring in Artificial Intelligence
+- 🧠 I have a strong background in Statistics and Machine Learning Algorihms.
 - 📫 You can reach me on:
 <br>  LinkedIn: https://www.linkedin.com/in/yassine-sedjari-4074aa189
 <br>  Kaggle: https://www.kaggle.com/yassinesedjari
