@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yassine Sedjari
-- 👀 I’m interested in Machine Learning Engineering
+- 👀 I’m interested in Machine Learning Engineering and Research
 - 🌱 I’m currently a Senior Undergraduate Student at Ecole National Supérieur d'Informatique et d'Analyse des Système, Mohamed V University.
 - 📚 I'm majoring in Artificial Intelligence
 - 🧠 I have a strong background in Statistics and Machine Learning Algorihms.
